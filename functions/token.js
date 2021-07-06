@@ -2,7 +2,7 @@ exports.handler = function(context, event, callback) {
   // REMINDER: This identity is only for prototyping purposes
   const IDENTITY = "client_user";
 
-  const ACCOUNT_SID = context.SHARED_ACCOUNT_SID;
+  const ACCOUNT_SID = context.ACCOUNT_SID;
 
   // set these values in your .env file
   const TWIML_APPLICATION_SID = context.TWIML_APP_SID;
