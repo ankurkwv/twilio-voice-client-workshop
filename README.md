@@ -5,18 +5,6 @@ This repository is boilerplate code to go along with a live session on how to le
 2. Uplevel: Adding features like mute/unmute
 3. Bonus: Bridging in other platforms like phone calls
 
-## Pre-requisites
-
-### Twilio Account
-
-You'll need a Twilio Account for this project. You can use my referral code to get $10 credit when you sign up and upgrade your account. www.twilio.com/referral/EMipQ8. You will be able to use a free Twilio trial account for this project. 
-
-### Phone Number
-
-Provision a phone number to use inside your Twilio Account following these steps: https://support.twilio.com/hc/en-us/articles/223135247-How-to-Search-for-and-Buy-a-Twilio-Phone-Number-from-Console
-
-## Deploying this project
-
 ### Step 1: Create a Function service.
 
 Navigate to https://www.twilio.com/console/functions and click `Create Service`. Name this anything you'd like.
